@@ -1,4 +1,3 @@
 # Projects
-A collection of projects
+A collection of projects in R, SAS and Python.  Accompanying Tableau dashboards for some projects can be seen at:  https://public.tableau.com/profile/yale.quan
 
-This is the writeup and code for a project titled 'Detecting Suspicious Reviews in the Yelp Dataset'.  The data for the code can be downloaded from https://www.kaggle.com/yelp-dataset/yelp-dataset
